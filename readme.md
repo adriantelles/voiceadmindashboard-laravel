@@ -1,6 +1,5 @@
 ## Admin Dashboard
 MemberManager, Talk Manager
-![alt tag](https://github.com/happymario/VoiceTalkAdmin/blob/master/img.png)
 
 ## Project Run
 1. Composer
